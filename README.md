@@ -157,7 +157,7 @@
   <section style="margin-top:40px;">
     <h2>Contato</h2>
     <p>Quer saber mais? Fale conosco pelo WhatsApp ou Instagram:</p>
-    <p><a href="https://wa.me/258XXXXXXXXX" target="_blank" class="contato-link">WhatsApp</a> | <a href="https://instagram.com/seuusuario" target="_blank" class="contato-link">Instagram</a></p>
+    <p><a href="https://wa.me/879404385" target="_blank" class="contato-link">WhatsApp</a> | <a href="https://instagram.com/seuusuario" target="_blank" class="contato-link">Instagram</a></p>
   </section>
 </main>
 
